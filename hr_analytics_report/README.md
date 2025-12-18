@@ -1,46 +1,69 @@
-# Employee Attrition Analysis Dashboard (Power BI)
+# Employee Attrition Analysis Dashboard
 
-## Overview
-This project analyzes employee attrition patterns using an interactive Power BI dashboard. The objective is to understand workforce trends, identify key attrition drivers, and present actionable insights to support HR decision making.
+## 📊 Overview
 
-## Dataset
-- Source: CSV file containing employee level HR data
-- Data includes employee demographics, salary, tenure, department, job role, and attrition status
+This Power BI project focuses on analyzing employee attrition patterns using structured HR data. The dashboard provides a comprehensive view of workforce trends, attrition behavior, and key employee metrics to support data driven HR decision making and retention planning.
 
-## Data Preparation
-Data cleaning and transformation were performed using Power Query in Power BI.
-- Removed null and missing values
-- Eliminated duplicate records
-- Standardized data formats for analysis
-- Prepared data for KPI calculation and visualization
+It highlights employee demographics, compensation trends, tenure distribution, and department level attrition to help identify potential drivers of employee turnover.
 
-## Key KPIs
+---
+
+## 🧰 Tools & Technologies
+- Power BI Desktop
+- Power Query
+- Basic DAX Measures
+- CSV and Excel Data Sources
+
+---
+
+## 📈 Key KPIs Tracked
 - Total Employee Count
 - Attrition Count
 - Attrition Rate
 - Average Employee Age
 - Average Salary
-- Average Tenure
+- Average Tenure in Company
 
-## Dashboard Features
-- Interactive KPI cards for workforce overview
-- Attrition analysis by department and job role
-- Demographic based insights using age, salary, and tenure
-- Filters for deeper, user driven analysis
+---
 
-## Insights Generated
-- Identified departments and roles with higher attrition rates
-- Observed increased attrition among early tenure employees
-- Analyzed salary and age patterns affecting employee retention
+## 🔍 Key Features
 
-## Tools and Technologies
-- Power BI
-- Power Query
-- CSV
+### ✅ Workforce Overview
+- High level KPI cards summarizing employee strength and attrition metrics
+- Snapshot of overall workforce health
 
-## Project Files
-- Power BI dashboard (.pbix)
-- Dashboard screenshots
+### ✅ Attrition Analysis
+- Attrition trends across departments and job roles
+- Identification of high attrition segments within the organization
 
-## Author
+### ✅ Demographic Insights
+- Age based and salary based attrition patterns
+- Tenure driven analysis to understand early stage employee turnover
+
+### ✅ Interactive Dashboard
+- Filters and slicers for department and role level exploration
+- Clean and intuitive visual design focused on usability and insights
+
+---
+
+## 📌 Business Relevance
+
+This dashboard can support:
+- HR analytics and workforce planning
+- Employee retention strategy formulation
+- Organizational performance reviews
+- Business analytics and reporting use cases
+
+---
+
+## 📁 Files Included
+- `EMPLOYEE_ATTRITION_DASHBOARD.pbix`
+- `EMPLOYEE_ATTRITION_DASHBOARD.pdf`
+- `HR_Analytics.xlsx`
+- `README.md`
+
+---
+
+## 👤 Author
 Aditya Joshi
+
